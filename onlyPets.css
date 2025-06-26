@@ -1,7 +1,6 @@
 body {
   margin: 0;
- background-image:"WhatsApp%20Image%202025-06-04%20at%2021.55.25.jpeg";
-
+ background-image: url("WhatsApp%20Image%202025-06-04%20at%2021.55.25.jpeg");
 h2 {
   background-color: #B7D597;
   color: #C87504;
