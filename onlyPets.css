@@ -1,6 +1,7 @@
 body {
   margin: 0;
- background-image: url("fondo.jpeg");
+ background-image: url("../fondo.jpeg");
+
 h2 {
   background-color: #B7D597;
   color: #C87504;
